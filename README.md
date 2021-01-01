@@ -1,0 +1,3 @@
+# Notas
+
+Repo con varios customHooks para usar en el futuro...
